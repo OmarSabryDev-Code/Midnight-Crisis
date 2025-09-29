@@ -26,7 +26,7 @@ You must sprint through the roads under flickering streetlights, collect coins, 
 ## 📦 Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/OmarSabryDev-Code/MidnightCrisis.git
+   git clone https://github.com/OmarSabryDev-Code/Midnight-Crisis.git
    cd MidnightCrisis
 
 ## 👨‍💻 Author
